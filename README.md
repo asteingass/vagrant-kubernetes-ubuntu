@@ -7,6 +7,6 @@ Have fun.
 
 ## OPTIONAL: Update /etc/hosts
 Use the script `sudo ./add_hosts_local.sh` to map the Kubernetes IP with a more usabal hostname
-- kmaster.io
-- kworker1.io
-- kworker2.io
+- kmaster.example.com
+- kworker1.example.com
+- kworker2.example.com
